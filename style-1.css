@@ -40,7 +40,7 @@ a {
   color: green;
 }
 
-.feedback {
-  text-align: center;
-  margin-top: 13em;
+#email {
+  text-decoration: underline;
+  color: blue;
 }
