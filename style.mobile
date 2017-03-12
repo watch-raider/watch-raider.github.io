@@ -1,0 +1,52 @@
+body {
+  background-image: url(https://s-media-cache-ak0.pinimg.com/564x/7c/1e/cb/7c1ecb8e2e6a1731a87f476b70c2fe93.jpg);
+  background-size: cover
+}
+
+ {
+  border: 1px solid black;
+}
+
+#button {
+  margin-left: 19%;
+  margin-top: 50%;
+  padding: 8%;
+  width: 8em;
+  background-image: url(http://l.rgbimg.com/cache1nrWdM/users/d/dl/dlritter/600/2dP3U92.jpg);
+  border-radius: 100%;
+  border: 5px solid black;
+}
+
+h1 {
+  position: relative;
+  font-size: 140%;
+  color: black;
+  text-decoration: none;
+  text-align: center;
+}
+
+h1:hover {
+  text-decoration: underline;
+}
+
+a {
+  text-decoration: none;
+}
+
+#instruction {
+  text-align: center;
+  color: black;
+}
+
+#email {
+  color: black;
+  text-decoration: underline;
+}
+
+#mobile {
+  font-size: 0.6em;
+  text-align: center
+}
+
+
+
