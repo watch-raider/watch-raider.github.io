@@ -47,5 +47,9 @@ a {
 
 #mobile {
   font-size: 0.6em;
-  text-align: center
+  text-align: center;
+}
+
+#mobile:hover {
+  text-decoration: underline;
 }
