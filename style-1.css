@@ -44,3 +44,8 @@ a {
   text-decoration: underline;
   color: blue;
 }
+
+#mobile {
+  font-size: 0.6em;
+  text-align: center
+}
