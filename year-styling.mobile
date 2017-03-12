@@ -1,0 +1,105 @@
+* {
+  margin: 0;
+}
+
+body {
+  background-color: black;
+}
+  
+
+table {
+  margin-top: 2%;
+  background-color: white;
+  position: absolute;
+}
+
+h1 {
+  text-align: center;
+  width: 60%;
+  background-image: url(http://pcfox.eu/wp-content/uploads/2016/10/slide2_0003_football-field-at-night-wallpaperfootball-stadium-3d-hd-wallpapers-1920x1200px-indiwall-mn3noqvt.png); 
+  background-size: cover;
+  margin-left: 20%;
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+
+h2 {
+  text-align: center;
+  font-family: Arial;
+  color: goldenrod;
+  text-decoration: underline;
+  margin-top: 2%;
+}
+
+#year {
+  text-align: center;
+  margin: 3%
+}
+
+#year:hover {
+  text-decoration: underline;
+}
+
+#yr {
+  color: whitesmoke;
+  text-decoration: none;
+  font-family: Arial Black;
+  font-size: 0.7em;
+}
+
+#home {
+  color: gold;
+  text-decoration: none;
+}
+
+.logo {
+  position: relative;
+  height: 3em;
+  width: 3em;
+  
+}
+
+.position, .relegation, .qualify {
+  text-align: center;
+  text-decoration: underline;
+  width: 1em;
+}
+
+.relegation {
+  background-color: pink;
+}
+
+.owner {
+  height: 4em;
+  width: 7em;
+  margin-left: 2%;
+}
+
+.transfers {
+  font-family: impact;
+  text-align: center;
+  margin-bottom: 5%;
+  font-size: 100%;
+}
+
+.arrow {
+  height: 5%;
+  width: 60%;
+}
+
+#winner {
+  background-color: gold;
+}
+
+.qualify {
+  background-color: lightgrey;
+}
+
+#heading {
+  background-color: skyblue;
+  font-size: 0.7em;
+}
+
+td {
+  border-bottom: 0.5px solid gray;
+}
