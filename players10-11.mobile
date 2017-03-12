@@ -9,7 +9,7 @@
 
 
   <body>
-    <h1><a id="home" href="index.mobile">FOOTBALL FINANCE</a></h1>
+    <h1><a id="home" href="index.html.mobile">FOOTBALL FINANCE</a></h1>
     <h2>Financial league table 2010-11</h2>
     <p id="year"><a id="yr" href="intro-page.mobile">Click here for other years!</a></p>
 
