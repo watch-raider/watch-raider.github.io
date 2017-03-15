@@ -28,6 +28,7 @@ h1 {
   color: black;
   text-decoration: none;
   text-align: center;
+  margin-top: 1.5em;
 }
 
 h1:hover {
@@ -51,7 +52,11 @@ a {
 
 #mobile {
   font-size: 0.6em;
-  text-align: center
+  text-align: center;
+  width: 50%;
+  margin-left: 25%;
+  background-color: gold;
+  margin-top: 5%;
 }
 
 
