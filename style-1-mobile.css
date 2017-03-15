@@ -12,12 +12,12 @@ body {
 }
 
 #button {
-  margin-left: 19%;
   margin-top: 50%;
-  padding: 8%;
-  width: 8em;
+  width: 50%;
+  margin-left: 25%;
+  height: 30%;
+  border-radius: 50%;
   background-image: url(http://l.rgbimg.com/cache1nrWdM/users/d/dl/dlritter/600/2dP3U92.jpg);
-  border-radius: 100%;
   border: 5px solid black;
   position: absolute;
 }
