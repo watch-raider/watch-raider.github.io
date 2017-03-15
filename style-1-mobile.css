@@ -25,7 +25,7 @@ button {
   background-image: url(http://l.rgbimg.com/cache1nrWdM/users/d/dl/dlritter/600/2dP3U92.jpg);
 }
 
-h1:hover {
+button:hover {
   text-decoration: underline;
 }
 
