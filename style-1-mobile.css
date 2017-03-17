@@ -13,7 +13,6 @@ body {
 
 button {
   top: 50%;
-  margin-top: 50%;
   position: relative;
   font-size: 200%;
   border: 5px black solid;
