@@ -14,10 +14,10 @@ body {
 #gold {
   margin-top: 50%;
   position: relative;
-  font-size: 200%;
+  font-size: 100%;
   border: 5px black solid;
   width: 50%;
-  font-family:fantasy;
+  font-family: fantasy;
   color: black;
   text-decoration: none;
   text-align: center;
