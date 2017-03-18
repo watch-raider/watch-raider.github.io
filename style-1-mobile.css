@@ -14,7 +14,7 @@ body {
 #gold {
   margin-top: 50%;
   position: relative;
-  font-size: 100%;
+  font-size: 150%;
   border: 5px black solid;
   width: 50%;
   font-family: fantasy;
@@ -47,8 +47,8 @@ a {
 #mobile {
   font-size: 0.6em;
   text-align: center;
-  width: 10%;
-  margin-left: 35%;
+  width: 30%;
+  margin-left: 15%;
   background-color: whitesmoke;
   margin-top: 10%;
   position: relative;
