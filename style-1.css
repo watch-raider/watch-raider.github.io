@@ -48,6 +48,7 @@ a {
 #mobile {
   font-size: 0.6em;
   text-align: center;
+  background-color: whitesmoke;
 }
 
 #mobile:hover {
