@@ -11,6 +11,7 @@ table {
   margin-top: 2%;
   background-color: white;
   position: absolute;
+  width: 100%
 }
 
 h1 {
@@ -33,7 +34,7 @@ h2 {
 
 #year {
   text-align: center;
-  margin: 3%
+  margin: 3%;
 }
 
 #year:hover {
@@ -44,7 +45,7 @@ h2 {
   color: whitesmoke;
   text-decoration: none;
   font-family: Arial Black;
-  font-size: 0.7em;
+  font-size: 80%;
 }
 
 #home {
@@ -53,16 +54,18 @@ h2 {
 }
 
 .logo {
-  position: relative;
-  height: 3em;
-  width: 3em;
+  width: 100%;
   
+}
+
+.emblem {
+  width: 15%;
 }
 
 .position, .relegation, .qualify {
   text-align: center;
   text-decoration: underline;
-  width: 1em;
+  font-size: 105%;
 }
 
 .relegation {
@@ -70,20 +73,21 @@ h2 {
 }
 
 .owner {
-  height: 4em;
-  width: 7em;
+  width: 100%;
   margin-left: 2%;
+}
+
+.boss {
+  width: 40%;
 }
 
 .transfers {
   font-family: impact;
   text-align: center;
-  margin-bottom: 5%;
   font-size: 100%;
 }
 
 .arrow {
-  height: 5%;
   width: 60%;
 }
 
@@ -97,7 +101,7 @@ h2 {
 
 #heading {
   background-color: skyblue;
-  font-size: 0.7em;
+  font-size: 80%;
 }
 
 td {
