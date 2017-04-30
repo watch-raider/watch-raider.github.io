@@ -26,7 +26,7 @@ $(document).ready(function() {
 $(document).ready(function() {
   $('.choice2').hide();
   $('.seek2').click(function() {
-    $('.choice2).toggle();
+    $('.choice2').toggle();
   });
 });
 
