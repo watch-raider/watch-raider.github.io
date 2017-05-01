@@ -48,3 +48,13 @@ $(document).ready(function() {
   });
 });
 
+//Home Page button
+
+$(document).ready(function() {
+  $('#button, #instruction').hide();
+  $('#button, #instruction').fadeIn('slow');
+  $('#button').click(function() {
+    $('#button').fadeTo(1000, 0.6);
+  });
+});
+
