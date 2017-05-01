@@ -8,7 +8,7 @@ function greetMe(name) {
 $(document).ready(function() {
   $('.choice').hide();
   $('.seek').click(function() {
-    $('.choice').toggle();
+    $('.choice').slideToggle();
   });
 });
 
@@ -17,7 +17,7 @@ $(document).ready(function() {
 $(document).ready(function() {
   $('.choice1').hide();
   $('.seek1').click(function() {
-    $('.choice1').toggle();
+    $('.choice1').slideToggle();
   });
 });
 
@@ -26,7 +26,7 @@ $(document).ready(function() {
 $(document).ready(function() {
   $('.choice2').hide();
   $('.seek2').click(function() {
-    $('.choice2').toggle();
+    $('.choice2').slideToggle();
   });
 });
 
@@ -35,7 +35,7 @@ $(document).ready(function() {
 $(document).ready(function() {
   $('.choice3').hide();
   $('.seek3').click(function() {
-    $('.choice3').toggle();
+    $('.choice3').slideToggle();
   });
 });
 
@@ -44,7 +44,7 @@ $(document).ready(function() {
 $(document).ready(function() {
   $('.choice4').hide();
   $('.seek4').click(function() {
-    $('.choice4').toggle();
+    $('.choice4').slideToggle();
   });
 });
 
