@@ -53,10 +53,12 @@ $(document).ready(function() {
 $(document).ready(function() {
   $('button, #instruction').hide();
   $('button, #instruction').fadeIn('slow');
+  $('#goal').hide();
   
 //GOAL!!!
   $('button').hover(function() {
     $('#football').animate({top: '-=500px'}, 800);
+    $('#goal').fadeIn('slow');
   });
   
   $('button').click(function() {
