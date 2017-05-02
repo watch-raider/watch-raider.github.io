@@ -18,6 +18,13 @@ body {
   width: 5%;
 }
 
+#goal {
+  color: gold;
+  text-align: center;
+  font-size: 200%;
+  font-family: sans-serif, arial;
+}
+
 button {
   margin-top: 30%;
   position: relative;
