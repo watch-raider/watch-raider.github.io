@@ -11,6 +11,13 @@ body {
   text-align: center;
 }
 
+#football {
+  margin-top: 23%;
+  margin-left: 47.5%;
+  position: absolute;
+  width: 5%;
+}
+
 button {
   margin-top: 30%;
   position: relative;
