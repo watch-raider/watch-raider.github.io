@@ -1,7 +1,3 @@
-function greetMe(name) {
-  var today = new Date();
-  alert("Hello " + name + ", today is " + today.toDateString());
-}
 
 //2014-15
 
@@ -52,9 +48,9 @@ $(document).ready(function() {
 
 $(document).ready(function() {
   $('button, #instruction').hide();
-  $('button, #instruction').fadeIn('slow');
+  $('button, #instruction').delay(1000).fadeIn('slow');
   $('#goal').hide();
-  
+ 
 //GOAL!!!
   $('button').hover(function() {
     $('#football').animate({top: '-=500px'}, 800);
