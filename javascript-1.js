@@ -1,4 +1,4 @@
-
+/*
 //2014-15
 
 $(document).ready(function() {
@@ -43,6 +43,18 @@ $(document).ready(function() {
     $('.choice4').slideToggle();
   });
 });
+
+*/
+
+// choosing premier league year animation
+
+$(document).ready(function() {
+  $('.choice').hide();
+  $('.seek').click(function() {
+    $('.choice').hide(500);
+    $(this).children('.choice').show(500);
+  })
+  });
 
 //Home Page button
 
