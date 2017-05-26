@@ -53,6 +53,8 @@ $(document).ready(function() {
   $('.seek').click(function() {
     $('.choice').hide(500);
     $(this).children('.choice').show(500);
+    $('.seek').removeClass('blue');
+    $(this).addClass('blue');
   })
   });
 
